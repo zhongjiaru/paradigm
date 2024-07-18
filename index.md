@@ -12,13 +12,15 @@ layout: default
   <title>Document</title>
   <style>
     .content {
+      width: 100%;
+      max-width: 800px; /* Adjust as necessary */
+      margin: auto;
       display: flex;
       flex-direction: column;
       align-items: center;
     }
     .content img {
-      width: 200%;
-      max-width: 500px;
+      width: 100%;
       height: auto;
       margin-bottom: 10px; /* Adjust the margin as needed */
     }
