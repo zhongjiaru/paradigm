@@ -1,6 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Leveraging Temporal Contexts to Enhance Vehicle-Infrastructure Cooperative Perception
-description: Jiaru Zhong, Haibao Yu, Tianyi Zhu, Jiahui Xu, Wenxian Yang, Zaiqing Nie and Chao Sun
+title: A Plugin-based Paradigm for Practical Vehicle Road Cooperative Perception
+description: Jiaru Zhong, Chao Sun, Yungang Lan, Haibao Yu, Jiahui Xu, Tianyi Zhu, Chao Yue
 show_downloads: false
