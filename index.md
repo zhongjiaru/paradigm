@@ -13,7 +13,6 @@ layout: default
   <style>
     .content {
       width: 100%;
-      max-width: 800px; /* Adjust as necessary */
       margin: auto;
       display: flex;
       flex-direction: column;
